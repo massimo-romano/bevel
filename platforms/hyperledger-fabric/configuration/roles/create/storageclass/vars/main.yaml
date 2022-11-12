@@ -17,3 +17,5 @@ sc_templates:
   oke-peer: oke_sc.tpl
   gcp-orderer: gcp_sc.tpl
   gcp-peer: gcp_sc.tpl
+  k0s-orderer: k0s_sc.tpl
+  k0s-peer: k0s_sc.tpl
